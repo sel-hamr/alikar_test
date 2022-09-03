@@ -18,7 +18,7 @@ const Card = ({questionsList, IndexCurrentQuestion, timer}) => {
         <View style={{flexDirection: 'row'}}>
           <ViewerNumber color="#1C3879" content={timer?.mins} type="type2" />
           <ViewerNumber
-            color="#1C3879"
+            color="#E94560"
             content={timer?.secs}
             type="type2"
             style={{marginLeft: 5}}
