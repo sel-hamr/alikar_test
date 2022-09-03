@@ -9,7 +9,7 @@ const Fetch = () => ([
       ],
       "image": null,
       "label": "Capitale du maroc ?",
-      "time": 10
+      "time": 90
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@ const Fetch = () => ([
         {"label": "italie", "correct": false}
       ],
       "label": "Dans quel pays peut-on trouver la Catalogne, l’Andalousie et la Castille ?",
-      "time": 10
+      "time": 60
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@ const Fetch = () => ([
         {"label": "Attila", "correct": false}
       ],
       "label": "Qui a dit : « Le sort en est jeté » (Alea jacta est) ?",
-      "time": 10
+      "time": 70
     }
   ]);
 
